@@ -1,5 +1,5 @@
-# README Generator
-  [Github license](http://img.shields.io/badge/license/BSD-2-blueviolet.svg)
+# ReadMe Generator
+  [Github license](http://img.shields.io/badge/license/BSD-3-blueviolet.svg)
 
   *[Installation](#installation)
   *[Usage](#usage)
@@ -9,14 +9,14 @@
   *[Questions] (#questions)
 
   ## Installation
-    npm dependencies
+    npm run inquirer
 
   ## Usage 
 
-  How to access the terminal in node
+  You should know about node.js
 
   ## Contributions
-  They can get permission to work on the javascript
+  They can ask for an invitation link
 
   ## Testing
   Use this command to run your tests.
